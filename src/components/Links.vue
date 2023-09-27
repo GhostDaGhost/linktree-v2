@@ -56,6 +56,11 @@
                         icon: 'mdi-github'
                     },
                     {
+                        name: 'Showwcase',
+                        url: 'https://showwcase.com/alexarizola46',
+                        icon: 'mdi-bag-personal'
+                    },
+                    {
                         name: 'Email',
                         url: 'mailto:alexarizola46@gmail.com',
                         icon: 'mdi-email'
