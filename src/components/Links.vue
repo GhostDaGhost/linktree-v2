@@ -26,8 +26,8 @@
             return {
                 mediaLinks: [
                     {
-                        name: 'Twitter',
-                        url: 'https://twitter.com/alex_arizola',
+                        name: 'X',
+                        url: 'https://x.com/alex_arizola',
                         icon: 'mdi-twitter'
                     },
                     {
@@ -35,11 +35,11 @@
                         url: 'https://instagram.com/alex.arizola/',
                         icon: 'mdi-instagram'
                     },
-                    {
+                    /*{
                         name: 'Threads',
                         url: 'https://threads.net/@alex.arizola',
                         icon: 'mdi-dots-circle'
-                    },
+                    },*/
                     {
                         name: 'Portfolio',
                         url: 'https://alexarizola.dev/',
