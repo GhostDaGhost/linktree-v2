@@ -1,7 +1,7 @@
 <template>
     <v-container class="mt-2 fadeonrender">
         <h3 class="text-h4 font-weight-light">Alexander Arizola</h3>
-        <h1 class="text-h6 font-weight-bold mt-2">Full Stack Developer</h1>
+        <h1 class="text-h6 font-weight-bold mt-2">Software Engineer</h1>
     </v-container>
 </template>
 
